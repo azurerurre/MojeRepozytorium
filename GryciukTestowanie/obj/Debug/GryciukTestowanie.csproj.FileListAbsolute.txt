@@ -1,0 +1,7 @@
+C:\Users\GaryC\Documents\Visual Studio 2017\Projects\GryciukTestowanie\GryciukTestowanie\bin\Debug\GryciukTestowanie.exe.config
+C:\Users\GaryC\Documents\Visual Studio 2017\Projects\GryciukTestowanie\GryciukTestowanie\bin\Debug\GryciukTestowanie.exe
+C:\Users\GaryC\Documents\Visual Studio 2017\Projects\GryciukTestowanie\GryciukTestowanie\bin\Debug\GryciukTestowanie.pdb
+C:\Users\GaryC\Documents\Visual Studio 2017\Projects\GryciukTestowanie\GryciukTestowanie\obj\Debug\GryciukTestowanie.csprojResolveAssemblyReference.cache
+C:\Users\GaryC\Documents\Visual Studio 2017\Projects\GryciukTestowanie\GryciukTestowanie\obj\Debug\GryciukTestowanie.csproj.CoreCompileInputs.cache
+C:\Users\GaryC\Documents\Visual Studio 2017\Projects\GryciukTestowanie\GryciukTestowanie\obj\Debug\GryciukTestowanie.exe
+C:\Users\GaryC\Documents\Visual Studio 2017\Projects\GryciukTestowanie\GryciukTestowanie\obj\Debug\GryciukTestowanie.pdb
